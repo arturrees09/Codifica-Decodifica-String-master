@@ -41,7 +41,7 @@ public class App {
             e.printStackTrace();
             return;
         }
-
+        //Alteracoes realizadas 
         String frase = "Hoje e dia 29 de agosto de 2021";
         try {
             for (String cod : codificadores) {
@@ -54,4 +54,5 @@ public class App {
             return;
         }
     }
+
 }

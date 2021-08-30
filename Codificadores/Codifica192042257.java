@@ -75,5 +75,4 @@ public class Codifica192042257 implements Codifica {
     public String getNomeAutor() {
         return "Artur Rees";
     }
-
 }
